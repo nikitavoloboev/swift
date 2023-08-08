@@ -1,8 +1,18 @@
 # Swift
 
+> Swift libraries + testing code
+
 ## File structure
 
 - [try](try) - testing out swift projects
+
+## Setup
+
+> TODO:
+
+## Run
+
+> TODO:
 
 ## Contribute
 
@@ -12,7 +22,7 @@ If issue/idea you have is not there, [open new issue](../../issues/new/choose) o
 
 Any PR with code/doc improvements is welcome. ✨
 
-There is a [personal Discord](https://discord.com/invite/TVafwaD23d) you can join for more indepth discussions related to this repo or [others](https://github.com/nikitavoloboev#src).
+Join [Discord](https://discord.com/invite/TVafwaD23d) for more indepth discussions on this repo and [others](https://github.com/nikitavoloboev#src).
 
 ## Tasks
 
