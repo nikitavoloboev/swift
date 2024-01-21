@@ -1,6 +1,6 @@
 # Swift
 
-> Swift libraries + testing code
+> Swift libraries and other code
 
 ## File structure
 
