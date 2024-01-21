@@ -1,0 +1,1 @@
+- setup `main.swift` file to be able to quickly run Swift code similar to other repos like rust, python
