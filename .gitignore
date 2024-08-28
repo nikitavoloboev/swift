@@ -7,3 +7,4 @@ node_modules
 # other
 safari-extensions
 private
+lib/swift-utils
